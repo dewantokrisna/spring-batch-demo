@@ -25,4 +25,5 @@ public class Customer {
     private String country;
     @Column(name = "DOB")
     private String dob;
+    //Feature 1
 }
