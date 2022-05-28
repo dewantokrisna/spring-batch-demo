@@ -6,5 +6,5 @@ import javax.persistence.Table;
 @Entity
 @Table(name= "CUSTOMERS_INFO")
 public class Customer {
-
+    //Feature 1
 }
